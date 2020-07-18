@@ -1,0 +1,5 @@
+
+Baikalah disini kami beranggotakan 3 orang adapun tugas-tugas yang kami lakukan dalam membuat projek ini:
+ARIP PARAYUDA dimana bertugas membuat(frontend) atau mendesain bagian tampilan dan mementukan menu apa saja yang akan dibuat
+EMELIA MAHMUDA dimana  bertugas dalam pembuatan database setelah selesai dalam pedesaianan maka akan membuat data base dan atbel apa saja yang akan dibuat
+YUNIZA AFRIANTI dimana bertugas pada bagian(backtend) atau dalam pengkodingn setelah database dibuat langkah selanjutnya yaiu tahap mengimplementasikan desan dan databasenya kedalam koding 
